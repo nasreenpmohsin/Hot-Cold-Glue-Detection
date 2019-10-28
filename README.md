@@ -1,7 +1,10 @@
 # Hot-Cold-Glue-Detection
 The program detects hot/ cold glue strips from images
+
 Author: Nasreen Mohsin
+
 Software Used: MATLAB 2018a
+
 This is the project assignment for glue lines detection. 
 The code was written and executed in MATLAB. The comments are added in the code to explain the algorithm. 
 The algorithm first detects white glue lines and then searches for hot melt glue lines. The output of MATLAB code presents white/hot melt  glue lines 
